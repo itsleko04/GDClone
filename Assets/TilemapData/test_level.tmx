@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="80" height="21" tilewidth="512" tileheight="512" infinite="0" nextlayerid="6" nextobjectid="1">
  <tileset firstgid="1" source="levels_tileset.tsx"/>
- <layer id="1" name="ground" width="80" height="21">
-  <data encoding="base64" compression="zlib">
-   eJztwzEJAAAMA7BS/6IrYt9IIAkAAAAAAMAv9XR/gACh
-  </data>
- </layer>
  <layer id="5" name="collision" width="80" height="21">
   <data encoding="base64" compression="zlib">
-   eJztw7ENAAAMAiAX/3/ZI7o1kJAAAAAAAAD8Uk8HF28BkQ==
+   eJztwzEJAAAMA7A+8295Igq9EkgCAACwcVYBAABWHqCMAZE=
   </data>
  </layer>
  <layer id="2" name="shapes" width="80" height="21">
   <data encoding="base64" compression="zlib">
-   eJztzbEJAEAIwEDdf+lfQfEthLs6kAgAAAAAAOCqXOgq7c9v51ltmXktyAAM
+   eJztzcEJAAAIAzHdf2lXUBBESN5HGwEAAFzJQddpJ3ubn90WAACAHwqocAAL
+  </data>
+ </layer>
+ <layer id="1" name="ground" width="80" height="21">
+  <data encoding="base64" compression="zlib">
+   eJztw4EFAAAMA7Dq/0f3izESkgAAANyoqqqqLw5uwQbh
   </data>
  </layer>
 </map>
